@@ -7,7 +7,7 @@
 
 **Daina Chiba**, Visiting Researcher, *Graduate School of Law, Kobe University*
 
-This is an *unofficial* Beamer theme for Kobe University.
+This is yet another *unofficial* Beamer theme for Kobe University. You may want to see a more thorough set of [theme files for Kobe University](https://github.com/yukiyanai/KobeBeamer) put together by [Yuki Yanai](http://yukiyanai.github.io/). 
 
 ![Screenshot](screenshot.jpg)
 
